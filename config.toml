@@ -1,20 +1,25 @@
-theme = "paper"
-disqusShortname = 'MRX'   # add disqus comments
+baseURL = 'https://medaz-sploit.github.io/mrx/'
+languageCode = 'en-us'
+title = 'Medaz-Sploit'
+theme = 'loveit'
+publishDir = "docs"
+
+disqusShortname = 'Matrix Land'   # add disqus comments
 
 [params]
   # color style
-  color = 'linen'                 # linen, wheat, gray, light
+  color = 'wheat'                 # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'       # github.com/YOUR_GITHUB_ID
-  instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+  twitter = 'SenpaiZero1'     # twitter.com/YOUR_TWITTER_ID
+  github = 'Medaz-Sploit'       # github.com/YOUR_GITHUB_ID
+  instagram = 'what_if_we_can33' # instagram.com/YOUR_INSTAGRAM_ID
   rss = true                      # show rss icon with link
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  avatar = ''       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'Mohamed Azoukni'
+  bio = "CyberSecurity Enthusiast, I love to solve new challenges, problem Solver. I often create CTFs in my spear time, find my way to permitted machines on HackTheBox platform also Bug bounty hunter on Hackerone and Bugcrowd. My passion is to make information systems more secure for client's data. When i get bored i go climbing and take some adventures with my friends to restore my energy. The best environment is to work with a team and help each other through the process of solving a major problem."
 
   # misc
   disableHLJS = true              # disable requesting highlight.js
