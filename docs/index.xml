@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Medaz-Sploit</title>
-        <link>https://medaz-sploit.github.io/mrx/</link>
+        <title></title>
+        <link>/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
-            <atom:link href="https://medaz-sploit.github.io/mrx/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
